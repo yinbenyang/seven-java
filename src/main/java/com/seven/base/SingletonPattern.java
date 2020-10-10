@@ -113,6 +113,12 @@ class SingletonPattern4{
     }
 }
 
+/**
+ * @description: 枚举方式
+ * @author yinbenyang
+ * @date 2020-10-10 11:09
+ * @version 1.0
+ */
 enum SingletonPattern5{
     INSTANCE;
 
