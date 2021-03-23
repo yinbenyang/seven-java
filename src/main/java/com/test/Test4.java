@@ -3,6 +3,7 @@ package com.test;
 import com.fasterxml.jackson.databind.util.BeanUtil;
 import com.google.common.collect.Maps;
 import com.model.User;
+import com.sun.tools.internal.ws.wsdl.framework.DuplicateEntityException;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Map;
 import org.apache.commons.beanutils.BeanUtils;
