@@ -13,12 +13,12 @@
     <description>java基础</description>
 
     <properties>
-        <seven.common>1.0-SNAPSHOT</seven.common>
+        <seven.common>1.0</seven.common>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>com.seven.common</groupId>
+            <groupId>com.seven</groupId>
             <artifactId>seven-common</artifactId>
             <version>${seven.common}</version>
         </dependency>

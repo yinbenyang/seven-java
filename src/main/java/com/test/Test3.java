@@ -6,11 +6,9 @@ package com.test;
  * @description: TODO
  * @date 2020-12-24 11:41
  */
- class Test3 {
+ public class Test3 {
 
     public static void main(String[] args) {
-
-
 
     }
 
